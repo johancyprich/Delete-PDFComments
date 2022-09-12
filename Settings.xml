@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Settings>
+	<Application>
+		<Name>Delete-PDFComments</Name>
+		<Version>1.0.0</Version>
+		<Date>September 12, 2022</Date>
+		<Author>Johan Cyprich</Author>
+		<AuthorContact>jcyprich@live.com</AuthorContact>
+		<Legal>
+			<Copyright>Copyright (c) 2022 Johan Cyprich. All rights reserved.</Copyright>
+			<License>Licensed under The MIT License (MIT).</License>
+		</Legal>
+	</Application>
+</Settings>
