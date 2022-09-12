@@ -11,5 +11,5 @@ Usage
 =====
 ./Delete-PDFComments input output
 
-where input - filename and path to PDF to modify
+where input - filename and path to PDF to modify<br />
       output - filename and path to save modified PDF
